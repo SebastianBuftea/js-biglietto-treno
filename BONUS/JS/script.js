@@ -18,7 +18,7 @@ else if(eta >= 65){
 /* SISTEMIAMO IL PREZZO CON DUE NUMERI DOPO LA VIRGOLA */
 prezzo= prezzo.toFixed(2)
 
+
 /* VISULIZZIAMO IL PREZZO SULLA CONSOLE */
 console.log(prezzo)
-
 document.getElementById(`prezzo_biglietto`).innerHTML=`${document.getElementById(`prezzo_biglietto`).innerHTML} ${prezzo} € `;
