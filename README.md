@@ -13,6 +13,14 @@ BONUS
 
 
 
+<!-- ESERCIZIO CALCOLO BIGLIETTO DEL TRENO -->
+1- Chiesere al utente il numero di chilometri che vuole percorrere
+2- Chiedere l'età del passeggreo
+3-calcorare il prezzo del viaggio totale senza sconto moltip0licando i chilometri per 0,21
+4a- se minorenne applicare il 20% di sconto al prezzo
+4b- altrimenti se over 65 applicare il 40% di sconto
+4c- se l età è compresa tra 18 e 65 far vedere il prezzo intero
+5-mostrare il prezzo  con massimo di due numeri dopo la virgola 
 
 
 
